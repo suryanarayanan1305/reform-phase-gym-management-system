@@ -1,0 +1,111 @@
+REFORM PHASE — Muscle Workout Library
+6 exercise variations for each muscle group
+
+1. Chest
+No. Exercise
+1 Barbell Bench Press
+2 Incline Dumbbell Press
+3 Decline Bench Press
+4 Dumbbell Chest Fly
+5 Cable Crossover
+6 Chest Dips
+
+2. Back
+No. Exercise
+1 Lat Pulldown
+2 Barbell Bent-Over Row
+3 Seated Cable Row
+4 Pull-Ups
+5 Single-Arm Dumbbell Row
+6 Straight-Arm Pulldown
+
+3. Shoulders
+No. Exercise
+1 Dumbbell Shoulder Press
+2 Arnold Press
+3 Dumbbell Lateral Raise
+4 Front Dumbbell Raise
+5 Reverse Pec Deck Fly
+6 Face Pull
+
+4. Biceps
+No. Exercise
+1 Barbell Biceps Curl
+2 Incline Dumbbell Curl
+3 Hammer Curl
+4 Preacher Curl
+5 Concentration Curl
+6 Cable Biceps Curl
+
+5. Triceps
+No. Exercise
+1 Rope Triceps Pushdown
+2 Overhead Dumbbell Extension
+3 Skull Crushers
+4 Close-Grip Bench Press
+5 Dumbbell Kickbacks
+6 Straight-Bar Pushdown
+
+6. Forearms
+No. Exercise
+1 Wrist Curl
+2 Reverse Wrist Curl
+3 Reverse Barbell Curl
+4 Farmer's Walk
+5 Plate Pinch Hold
+6 Dead Hang
+
+7. Quadriceps (Front Thigh)
+No. Exercise
+1 Barbell Back Squat
+2 Leg Press
+3 Leg Extension
+4 Bulgarian Split Squat
+5 Goblet Squat
+6 Hack Squat
+
+8. Hamstrings (Back Thigh)
+No. Exercise
+1 Romanian Deadlift
+2 Lying Leg Curl
+3 Seated Leg Curl
+4 Stiff-Leg Deadlift
+5 Nordic Hamstring Curl
+6 Single-Leg Romanian Deadlift
+
+9. Glutes
+No. Exercise
+1 Barbell Hip Thrust
+2 Glute Bridge
+3 Bulgarian Split Squat
+4 Cable Glute Kickback
+5 Sumo Squat
+6 Step-Ups
+
+10. Calves
+No. Exercise
+1 Standing Calf Raise
+2 Seated Calf Raise
+3 Leg Press Calf Raise
+4 Single-Leg Calf Raise
+5 Donkey Calf Raise
+6 Smith Machine Calf Raise
+
+11. Abs & Core
+No. Exercise
+1 Crunches
+2 Hanging Leg Raises
+3 Cable Crunches
+4 Ab Wheel Rollouts
+5 Plank
+6 Russian Twists
+
+12. Traps
+No. Exercise
+1 Dumbbell Shrugs
+2 Barbell Shrugs
+3 Upright Row
+4 Face Pull
+5 Farmer's Walk
+6 Rack Pull
+

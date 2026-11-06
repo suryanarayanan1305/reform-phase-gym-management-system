@@ -1,0 +1,186 @@
+{
+  "muscles": {
+    "Chest": [
+      "Barbell Bench Press",
+      "Incline Dumbbell Press",
+      "Decline Bench Press",
+      "Dumbbell Chest Fly",
+      "Cable Crossover",
+      "Chest Dips"
+    ],
+    "Back": [
+      "Lat Pulldown",
+      "Barbell Bent-Over Row",
+      "Seated Cable Row",
+      "Pull-Ups",
+      "Single-Arm Dumbbell Row",
+      "Straight-Arm Pulldown"
+    ],
+    "Shoulders": [
+      "Dumbbell Shoulder Press",
+      "Arnold Press",
+      "Dumbbell Lateral Raise",
+      "Front Dumbbell Raise",
+      "Reverse Pec Deck Fly",
+      "Face Pull"
+    ],
+    "Biceps": [
+      "Barbell Biceps Curl",
+      "Incline Dumbbell Curl",
+      "Hammer Curl",
+      "Preacher Curl",
+      "Concentration Curl",
+      "Cable Biceps Curl"
+    ],
+    "Triceps": [
+      "Rope Triceps Pushdown",
+      "Overhead Dumbbell Extension",
+      "Skull Crushers",
+      "Close-Grip Bench Press",
+      "Dumbbell Kickbacks",
+      "Straight-Bar Pushdown"
+    ],
+    "Forearms": [
+      "Wrist Curl",
+      "Reverse Wrist Curl",
+      "Reverse Barbell Curl",
+      "Farmer's Walk",
+      "Plate Pinch Hold",
+      "Dead Hang"
+    ],
+    "Quadriceps": [
+      "Barbell Back Squat",
+      "Leg Press",
+      "Leg Extension",
+      "Bulgarian Split Squat",
+      "Goblet Squat",
+      "Hack Squat"
+    ],
+    "Hamstrings": [
+      "Romanian Deadlift",
+      "Lying Leg Curl",
+      "Seated Leg Curl",
+      "Stiff-Leg Deadlift",
+      "Nordic Hamstring Curl",
+      "Single-Leg Romanian Deadlift"
+    ],
+    "Glutes": [
+      "Barbell Hip Thrust",
+      "Glute Bridge",
+      "Bulgarian Split Squat",
+      "Cable Glute Kickback",
+      "Sumo Squat",
+      "Step-Ups"
+    ],
+    "Calves": [
+      "Standing Calf Raise",
+      "Seated Calf Raise",
+      "Leg Press Calf Raise",
+      "Single-Leg Calf Raise",
+      "Donkey Calf Raise",
+      "Smith Machine Calf Raise"
+    ],
+    "Abs & Core": [
+      "Crunches",
+      "Hanging Leg Raises",
+      "Cable Crunches",
+      "Ab Wheel Rollouts",
+      "Plank",
+      "Russian Twists"
+    ],
+    "Traps": [
+      "Dumbbell Shrugs",
+      "Barbell Shrugs",
+      "Upright Row",
+      "Face Pull",
+      "Farmer's Walk",
+      "Rack Pull"
+    ]
+  },
+  "splits": {
+    "Push Variation": {
+      "title": "Push Variation (Chest, Shoulders & Triceps)",
+      "main": [
+        { "exercise": "Barbell Bench Press", "target": "Chest" },
+        { "exercise": "Incline Dumbbell Press", "target": "Chest" },
+        { "exercise": "Dumbbell Shoulder Press", "target": "Shoulders" },
+        { "exercise": "Dumbbell Lateral Raise", "target": "Shoulders" },
+        { "exercise": "Rope Triceps Pushdown", "target": "Triceps" },
+        { "exercise": "Close-Grip Bench Press", "target": "Triceps" }
+      ],
+      "alternatives": [
+        { "exercise": "Decline Bench Press", "target": "Chest" },
+        { "exercise": "Dumbbell Chest Fly", "target": "Chest" },
+        { "exercise": "Cable Crossover", "target": "Chest" },
+        { "exercise": "Chest Dips", "target": "Chest / Triceps" },
+        { "exercise": "Arnold Press", "target": "Shoulders" },
+        { "exercise": "Front Dumbbell Raise", "target": "Shoulders" },
+        { "exercise": "Overhead Dumbbell Extension", "target": "Triceps" },
+        { "exercise": "Skull Crushers", "target": "Triceps" },
+        { "exercise": "Straight-Bar Pushdown", "target": "Triceps" },
+        { "exercise": "Dumbbell Kickbacks", "target": "Triceps" }
+      ]
+    },
+    "Pull Variation": {
+      "title": "Pull Variation (Back, Biceps & Rear Delts/Traps)",
+      "main": [
+        { "exercise": "Lat Pulldown", "target": "Back" },
+        { "exercise": "Barbell Bent-Over Row", "target": "Back" },
+        { "exercise": "Seated Cable Row", "target": "Back" },
+        { "exercise": "Face Pull", "target": "Traps / Rear Delts" },
+        { "exercise": "Barbell Biceps Curl", "target": "Biceps" },
+        { "exercise": "Hammer Curl", "target": "Biceps / Forearms" }
+      ],
+      "alternatives": [
+        { "exercise": "Pull-Ups", "target": "Back" },
+        { "exercise": "Single-Arm Dumbbell Row", "target": "Back" },
+        { "exercise": "Straight-Arm Pulldown", "target": "Back" },
+        { "exercise": "Reverse Pec Deck Fly", "target": "Rear Delts" },
+        { "exercise": "Dumbbell Shrugs", "target": "Traps" },
+        { "exercise": "Barbell Shrugs", "target": "Traps" },
+        { "exercise": "Upright Row", "target": "Traps" },
+        { "exercise": "Incline Dumbbell Curl", "target": "Biceps" },
+        { "exercise": "Preacher Curl", "target": "Biceps" },
+        { "exercise": "Concentration Curl", "target": "Biceps" },
+        { "exercise": "Cable Biceps Curl", "target": "Biceps" },
+        { "exercise": "Farmer's Walk", "target": "Traps / Forearms" },
+        { "exercise": "Wrist Curl", "target": "Forearms" }
+      ]
+    },
+    "Leg Variation": {
+      "title": "Leg Variation (Quadriceps, Hamstrings, Glutes & Calves)",
+      "main": [
+        { "exercise": "Barbell Back Squat", "target": "Quadriceps" },
+        { "exercise": "Leg Press", "target": "Quadriceps" },
+        { "exercise": "Romanian Deadlift", "target": "Hamstrings" },
+        { "exercise": "Lying Leg Curl", "target": "Hamstrings" },
+        { "exercise": "Barbell Hip Thrust", "target": "Glutes" },
+        { "exercise": "Standing Calf Raise", "target": "Calves" }
+      ],
+      "alternatives": [
+        { "exercise": "Leg Extension", "target": "Quadriceps" },
+        { "exercise": "Bulgarian Split Squat", "target": "Quadriceps / Glutes" },
+        { "exercise": "Goblet Squat", "target": "Quadriceps" },
+        { "exercise": "Hack Squat", "target": "Quadriceps" },
+        { "exercise": "Seated Leg Curl", "target": "Hamstrings" },
+        { "exercise": "Stiff-Leg Deadlift", "target": "Hamstrings" },
+        { "exercise": "Nordic Hamstring Curl", "target": "Hamstrings" },
+        { "exercise": "Single-Leg Romanian Deadlift", "target": "Hamstrings" },
+        { "exercise": "Glute Bridge", "target": "Glutes" },
+        { "exercise": "Cable Glute Kickback", "target": "Glutes" },
+        { "exercise": "Sumo Squat", "target": "Glutes / Quads" },
+        { "exercise": "Step-Ups", "target": "Glutes / Quads" },
+        { "exercise": "Seated Calf Raise", "target": "Calves" },
+        { "exercise": "Leg Press Calf Raise", "target": "Calves" },
+        { "exercise": "Donkey Calf Raise", "target": "Calves" }
+      ]
+    }
+  },
+  "guidelines": {
+    "beginner": "2–3 sets of 10–15 reps",
+    "intermediate": "3–4 sets of 8–12 reps",
+    "advanced": "3–5 sets of 6–12 reps",
+    "note": "Workout plans should be adjusted based on individual member goals, fitness levels, and recovery capacity."
+  }
+}
+
